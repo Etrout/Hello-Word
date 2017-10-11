@@ -1,3 +1,2 @@
-<a href="default.asp">
-  <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;border:0;">
-</a>
+# Hello World
+Click <a href="http://www.yahoo.com" style="color: rgb(255,0,0)">here</a> to go to yahoo. 
